@@ -6,14 +6,6 @@
 
 <br>
 
-<h3 align="center"> 👋 Hi there 👋</h3>
-
-<p align="center">
-I'm DongYoon Shin, a junior developer. 🌱
-</p>
-
-<br>
-
 <h3 align="center">✨ Tech Stack ✨ </h3>
 
 <p align="center">
@@ -29,9 +21,9 @@ I'm DongYoon Shin, a junior developer. 🌱
 
 <br>
 
-
 <p align="center">
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yoon-developer&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoon-developer&layout=compact&theme=radical&count_private=true)
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoon-developer&layout=compact&theme=radical&count_private=true" alt="yoondev" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yoon-developer&show_icons=true&theme=radical" alt="yoondev" />
 </p>
